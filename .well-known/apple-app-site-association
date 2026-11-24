@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3W7FM3GX74.com.saithdevelopments.offchat"],
+        "components": [
+          { "/": "/offchat-app/l/*", "comment": "OffChat deep links: invite, join, place, find, ready, add" }
+        ]
+      }
+    ]
+  }
+}

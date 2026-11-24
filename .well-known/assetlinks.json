@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.matteosaitta.offchat",
+      "sha256_cert_fingerprints": [
+        "F2:F4:79:2B:4C:6D:4E:C5:9E:9F:57:AD:A1:AE:06:8D:9C:A5:21:EA:CA:FA:94:91:F1:05:CC:DC:B0:E6:82:3C",
+        "BD:BD:C3:31:AD:36:3D:9D:DA:DC:34:56:C1:B2:C8:0E:F2:A1:DA:EA:6A:44:9A:79:22:AA:62:A1:67:8C:CC:B4"
+      ]
+    }
+  }
+]
