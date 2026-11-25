@@ -1,28 +1,39 @@
 {
-  "applinks": {
-    "details": [
-      {
-        "appIDs": [
-          "3W7FM3GX74.com.saithdevelopments.offchat"
-        ],
-        "components": [
-          {
-            "/": "/offchat-app/l/*",
-            "comment": "OffChat deep links: invite, join, place, find, ready, add"
-          }
-        ]
-      },
-      {
-        "appIDs": [
-          "3W7FM3GX74.com.saithdevelopments.sitspark"
-        ],
-        "components": [
-          {
-            "/": "/sitspark-site/l/*",
-            "comment": "Sitspark deep links: lesson, practice, potty, clicker, socialization, calm"
-          }
-        ]
-      }
+ "applinks": {
+  "details": [
+   {
+    "appIDs": [
+     "3W7FM3GX74.com.saithdevelopments.offchat"
+    ],
+    "components": [
+     {
+      "/": "/offchat-app/l/*",
+      "comment": "OffChat deep links: invite, join, place, find, ready, add"
+     }
     ]
-  }
+   },
+   {
+    "appIDs": [
+     "3W7FM3GX74.com.saithdevelopments.sitspark"
+    ],
+    "components": [
+     {
+      "/": "/sitspark-site/l/*",
+      "comment": "Sitspark deep links: lesson, practice, potty, clicker, socialization, calm"
+     }
+    ]
+   },
+   {
+    "appIDs": [
+     "3W7FM3GX74.com.saithdevelopments.singwell"
+    ],
+    "components": [
+     {
+      "/": "/singwell-site/l/*",
+      "comment": "Singlark deep links: addsong, songs, workout, practice, checkup"
+     }
+    ]
+   }
+  ]
+ }
 }
